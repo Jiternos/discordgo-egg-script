@@ -59,6 +59,8 @@ else
     fi
 fi
 
+# TODO: Move executable to main folder
+# TODO: Startup argument
 
 echo -e "install complete"
 exit 0
